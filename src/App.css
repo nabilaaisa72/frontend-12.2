@@ -1,0 +1,7 @@
+.centered-button {
+  border: 1px solid black; /* Menambahkan border dengan ketebalan 1px dan warna hitam */
+  display: block; /* Membuat button menjadi elemen block */
+  margin: 0 auto; /* Mengatur margin atas dan bawah menjadi 0, dan margin kiri dan kanan secara otomatis agar button berada di tengah */
+  padding: 8px 16px; /* Menambahkan padding 8px di atas dan bawah, serta 16px di kiri dan kanan */
+  text-align: center; /* Mengatur teks di dalam button menjadi rata tengah */
+}
